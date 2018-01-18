@@ -33,4 +33,5 @@ function iLoveTheBeatles(number){
     counter=counter+n;
     i=i+1;
   }while(counter<15);
+  return loveBeatlesArray;
 }
