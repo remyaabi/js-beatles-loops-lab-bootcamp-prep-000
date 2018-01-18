@@ -1,5 +1,6 @@
 var musicians =['Zakir Hussain','Kadri Gopalnath','Dr. L. Subramaniam']
 var instruments=['tabla','saxophone','violin']
 function theBeatlesPlay(musicians,instruments){
-  var 
+  var musiciansinstruments=[]
+  for(let i=0;i<(musicians.length-1 || instruments.length-1)
 }
