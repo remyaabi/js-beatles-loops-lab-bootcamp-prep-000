@@ -1,4 +1,4 @@
-var musicians =['Zakir Hussain','Kadri Gopalnath','Dr. L. Subramaniam']
+const musicians = ["John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr"];
 var instruments=['tabla','saxophone','violin'];
 const facts = [
   "He was the last Beatle to learn to drive",
