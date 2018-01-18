@@ -25,9 +25,11 @@ function johnLennonFacts(facts){
 }
 var number=2;
 function iLoveTheBeatles(number){
+  var counter=0;
   var i=0;
   var loveBeatlesArray=[];
   do{
-    
+    loveBeatlesArray[i]
+    counter=counter+n
   }
 }
