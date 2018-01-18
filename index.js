@@ -23,3 +23,11 @@ function johnLennonFacts(facts){
   }
   return modifiedfacts;
 }
+var number=2;
+function iLoveTheBeatles(number){
+  var i=0;
+  var loveBeatlesArray=[];
+  do{
+    
+  }
+}
