@@ -1,3 +1,3 @@
-var musicians =['Zakir Hussain']
+var musicians =['Zakir Hussain','Kadri Gopalnath']
 var instruments=['tabla']
 theBeatlesPlay
