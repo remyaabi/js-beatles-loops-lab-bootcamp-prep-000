@@ -29,7 +29,7 @@ function iLoveTheBeatles(number){
   var i=0;
   var loveBeatlesArray=[];
   do{
-    loveBeatlesArray[i]
+    loveBeatlesArray[i]=
     counter=counter+n
   }
 }
