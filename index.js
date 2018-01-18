@@ -14,4 +14,10 @@ function theBeatlesPlay(musicians,instruments){
   return musiciansinstruments;
 }
 
-function johnLennonFacts
+function johnLennonFacts(facts){
+  var n=0;
+  var modifiedfacts=[]
+  while (n<facts.length){
+    modi
+  }
+}
