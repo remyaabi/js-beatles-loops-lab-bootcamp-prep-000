@@ -29,7 +29,8 @@ function iLoveTheBeatles(number){
   var i=0;
   var loveBeatlesArray=[];
   do{
-    loveBeatlesArray[i]=
-    counter=counter+n
-  }
+    loveBeatlesArray[i]="I love the Beatles!";
+    counter=counter+n;
+    i=i+1;
+  }while(counter<15);
 }
