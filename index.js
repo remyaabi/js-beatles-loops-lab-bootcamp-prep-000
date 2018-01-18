@@ -1,5 +1,11 @@
 var musicians =['Zakir Hussain','Kadri Gopalnath','Dr. L. Subramaniam']
-var instruments=['tabla','saxophone','violin']
+var instruments=['tabla','saxophone','violin'];
+const facts = [
+  "He was the last Beatle to learn to drive",
+  "He was never a vegetarian",
+  "He was a choir boy and boy scout",
+  "He hated the sound of his own voice"
+];
 function theBeatlesPlay(musicians,instruments){
   var musiciansinstruments=[];
   for(let i=0;i<(musicians.length-1 || instruments.length-1);i++){
