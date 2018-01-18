@@ -18,6 +18,8 @@ function johnLennonFacts(facts){
   var n=0;
   var modifiedfacts=[]
   while (n<facts.length){
-    modi
+    modifiedfacts[n]=`${facts[n]}+!!!`;
+    n++;
   }
+  return modifiedfacts;
 }
