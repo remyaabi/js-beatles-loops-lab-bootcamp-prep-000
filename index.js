@@ -34,8 +34,8 @@ function iLoveTheBeatles(number){
   var loveBeatlesArray=[];
   do{
     loveBeatlesArray[i]="I love the Beatles!";
-    counter=counter+number;
+    number++;
     i=i+1;
-  }while(counter<15);
+  }while(number<15);
    return loveBeatlesArray;
 }
