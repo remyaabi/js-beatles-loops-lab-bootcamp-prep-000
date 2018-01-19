@@ -27,7 +27,7 @@ function johnLennonFacts(facts){
   return modifiedfacts;
 }
 
-var number=2;
+var number=17;
 function iLoveTheBeatles(number){
   var counter=0;
   var i=0;
