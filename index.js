@@ -12,7 +12,7 @@ const facts = [
 function theBeatlesPlay(musicians,instruments){
   var musiciansinstruments=[];
   for(let i=0;i< (musicians.length-1 ||        instruments.length-1);i++){
-    musiciansinstruments[i]=`${musicians[i]}       plays ${instruments[i]}`;
+    musiciansinstruments[i]=`${musicians[i]} plays ${instruments[i]}`;
   }
   return musiciansinstruments;
 }
