@@ -11,7 +11,7 @@ const facts = [
 
 function theBeatlesPlay(musicians,instruments){
   var musiciansinstruments=[];
-  for(let i=0;i< (musicians.length-1 ||        instruments.length-1);i++){
+  for(let i=0;i< (musicians.length ||        instruments.length);i++){
     musiciansinstruments[i]=`${musicians[i]} plays ${instruments[i]}`;
   }
   return musiciansinstruments;
@@ -34,8 +34,8 @@ function iLoveTheBeatles(number){
   var loveBeatlesArray=[];
   do{
     loveBeatlesArray[i]="I love the Beatles!";
-    counter=counter+n;
+    counter=counter+number;
     i=i+1;
   }while(counter<15);
-  return loveBeatlesArray;
+   return loveBeatlesArray;
 }
